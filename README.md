@@ -33,8 +33,8 @@ Throughout the analysis, I have explored several key questions, including:
 Through extensive data exploration and visualization, I have gained valuable insights into the Airbnb dataset. The analysis has provided meaningful information on user preferences, host behaviors, and the overall Airbnb experience.
 
 ### Repository Contents
-- airbnb_eda.ipynb: The Jupyter Notebook containing the Python code and step-by-step data analysis process.
-- airbnb_dataset.csv: The Airbnb dataset used for analysis (if applicable).
+- Airbnb_EDA_Submission_Template.ipynb: The Jupyter Notebook containing the Python code and step-by-step data analysis process.
+- Airbnb NYC 2019.csv: The Airbnb dataset used for analysis (if applicable).
 - README.md: You are reading it right now! This file serves as the project's README to provide an overview.
 
 ### How to Use
