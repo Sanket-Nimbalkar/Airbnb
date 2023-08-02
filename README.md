@@ -34,7 +34,7 @@ Through extensive data exploration and visualization, I have gained valuable ins
 
 ### Repository Contents
 - Airbnb_EDA_Submission_Template.ipynb: The Jupyter Notebook containing the Python code and step-by-step data analysis process.
-- Airbnb NYC 2019.csv: The Airbnb dataset used for analysis (if applicable).
+- Airbnb NYC 2019.csv: The Airbnb dataset used for analysis.
 - README.md: You are reading it right now! This file serves as the project's README to provide an overview.
 
 ### How to Use
