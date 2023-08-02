@@ -38,7 +38,7 @@ Through extensive data exploration and visualization, I have gained valuable ins
 - README.md: You are reading it right now! This file serves as the project's README to provide an overview.
 
 ### How to Use
-Feel free to explore the Jupyter Notebook (airbnb_eda.ipynb) to understand the data analysis process, visualizations, and insights derived from the Airbnb dataset.
+Feel free to explore the Jupyter Notebook (Airbnb_EDA_Submission_Template.ipynb) to understand the data analysis process, visualizations, and insights derived from the Airbnb dataset.
 
 ### Conclusion
 This Airbnb EDA project has provided valuable insights into the world of Airbnb listings, user preferences, and host behaviors. By analyzing the dataset, I have gained a deeper understanding of how Airbnb has transformed the travel industry, providing a unique and personalized way to explore the world.
